@@ -1,4 +1,7 @@
 ### Olá eu sou o Guilherme Padilia!
+### 👨‍💻Estudante de Analise e Desenvolvimento de Sistemas - Faculdades Integradas Einstein de Limeira
+### 📧guipadi28@gmail.com
+### 📍 Limeira - SP
 ### _________________________________________________________________________
 <div>
     </br>
@@ -6,13 +9,13 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-padilia-744855219/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guipadilia/)
-[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Padilia)]
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Padilia)
 
 <div>
     </br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-Padilia&show_icons=true&theme=radical&title_color=blue)
+![Guilherme Padilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-Padilia&show_icons=true&theme=radical&title_color=blue)
 
 ### Tecnologias que utilizo e estudo: 
 ### _________________________________________________________________________
