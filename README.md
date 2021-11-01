@@ -1,5 +1,5 @@
 ### Olá eu sou o Guilherme Padilia!
-### 👨‍💻Estudante de Analise e Desenvolvimento de Sistemas - Faculdades Integradas Einstein de Limeira
+### 👨‍💻Estudante de Análise e Desenvolvimento de Sistemas - Faculdades Integradas Einstein de Limeira
 ### 📧guipadi28@gmail.com
 ### 📍 Limeira - SP
 ### _________________________________________________________________________
@@ -32,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-padilia&layout=compact)](https://github.com/guilherme-padilia/github-readme-stats)
 ###
-![Snake animation](https://github.com/guilherme-padilia/guilherme-padilia/blob/output/github-contribution-grid-snake.svg)
+
