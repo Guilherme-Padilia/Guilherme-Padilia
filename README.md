@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Padilia!
+# Olá eu sou o Guilherme Padilia!
 ### 👨‍💻Estudante de Análise e Desenvolvimento de Sistemas - Faculdades Integradas Einstein de Limeira
 ### 📧guipadi28@gmail.com
 ### 📍 Limeira - SP
@@ -17,7 +17,7 @@
 
 ![Guilherme Padilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-Padilia&show_icons=true&theme=radical&title_color=blue)
 
-### Tecnologias que utilizo e estudo: 
+## Tecnologias que utilizo e estudo: 
 ### _________________________________________________________________________
 
 <div style="display: inline_block"></br>
