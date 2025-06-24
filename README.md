@@ -1,10 +1,10 @@
-<h1 align="center">Olá! 👋, Eu sou Guilherme Henrique Cordeiro Padilia</h1>
+<h1 align="center">Olá! 👋, Eu sou Guilherme Padilia</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia e soluções criativas 🚀</h3>
 
-- 🔭 Atualmente trabalho como **Líder de Suporte e Desenvolvedor Júnior**
-- 💻 Tenho experiência com **Python, Delphi, Firebird, MariaDB e APIs REST**
-- 🌱 Estudando atualmente **Golang, React e Flutter**
-- 🎯 Buscando aprimorar minhas skills para atuar como **Analista de Sistemas**
+- 🔭 Atualmente trabalho como **Desenvolvedor Júnior** na Gplus Sistemas
+- 💻 Tenho experiência com **Python, Delphi, Firebird e APIs REST**
+- 🌱 Estudando atualmente **Golang**
+- 🎯 Buscando aprimorar minhas skills para atuar como **Desenvolvedor**
 - ⚡ Curiosidade: Amo resolver problemas e otimizar processos com automações
 
 ### 🚀 Tecnologias e Ferramentas:
@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Delphi-E82424?style=for-the-badge&logo=delphi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebird-EE2C2C?style=for-the-badge&logo=firebird&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
